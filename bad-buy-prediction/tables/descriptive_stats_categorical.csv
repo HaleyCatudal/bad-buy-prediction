@@ -1,0 +1,11 @@
+Predictor,Levels,Most common (share)
+Wheel Type,4,"Alloy (49%), Covers (45%), Missing (4%)"
+Make,32,"CHEVROLET (24%), DODGE (18%), FORD (15%)"
+Size,12,"MEDIUM (42%), LARGE (12%), MEDIUM SUV (11%)"
+Auction,3,"MANHEIM (56%), OTHER (24%), ADESA (20%)"
+State,37,"TX (19%), FL (14%), CA (10%)"
+Buyer,74,"99761 (5%), 18880 (5%), 835 (4%)"
+Purchase Month,12,"10 (10%), 2 (9%), 11 (9%)"
+Purchase Year,2,"2010 (52%), 2009 (48%)"
+Trim,134,"Bas (19%), LS (14%), SE (13%)"
+Color,16,"SILVER (20%), WHITE (17%), BLUE (14%)"
